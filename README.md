@@ -1,5 +1,5 @@
-# Bài tập môn React</br>
-<h1>Lý thuyết</h1></br>
+# Bài tập môn React
+## Lý thuyết
 <ol>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 1]</a></li>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 2]</a></li>
@@ -23,4 +23,4 @@
 <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 19]</a></li>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 20]</a></li> -->
 </ol>
-<h1>Thực hành</h1>
+## Thực hành
