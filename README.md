@@ -1,6 +1,5 @@
 # Bài tập môn React
 ## Lý thuyết
-## Thực hành
 <ol>
   <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 1]</a></li>
   <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 2]</a></li>
@@ -23,7 +22,8 @@
   <!-- <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 18]</a></li>
   <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 19]</a></li>
   <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 20]</a></li> -->
-</ol>
+</ol></br>
+## Thực hành
 <h1>Thực hành</h1>
 <ol>
   <li><a href="https://codesandbox.io/s/web-design-ujv638">Bài thực hành làm quen React và tạo component</a>
