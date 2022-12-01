@@ -1,5 +1,4 @@
-# MyReact
-Bài tập môn React</br>
+# Bài tập môn React</br>
 <h1>Lý thuyết</h1></br>
 <ol>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 1]</a></li>
