@@ -1,54 +1,19 @@
 # Bài tập môn React
-<ol>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 1]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 2]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/qBYeyZM">[Bài 3]</a></li>
-  <!-- <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 4]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 5]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 6]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 7]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 8]</a></li> -->
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/JjZKNKM">[Bài 9]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/BaVzZoz">[Bài 10]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/zYaBzvJ">[Bài 11]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/rNKjEQG">[Bài 12]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/gOKmqxx">[Bài 13]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/LYrWqZE">[Bài 14]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/gOKmqMm">[Bài 15]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/WNygWQW">[Bài 15(cách 2)]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/abKLVvM">[Bài 16]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWxmVBQ">[Bài 17]</a></li>
-  <!-- <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 18]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 19]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 20]</a></li> -->
-</ol>
 ## Lý thuyết
-<ol>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 1]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 2]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/qBYeyZM">[Bài 3]</a></li>
-  <!-- <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 4]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 5]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 6]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 7]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 8]</a></li> -->
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/JjZKNKM">[Bài 9]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/BaVzZoz">[Bài 10]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/zYaBzvJ">[Bài 11]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/rNKjEQG">[Bài 12]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/gOKmqxx">[Bài 13]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/LYrWqZE">[Bài 14]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/gOKmqMm">[Bài 15]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/WNygWQW">[Bài 15(cách 2)]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/abKLVvM">[Bài 16]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWxmVBQ">[Bài 17]</a></li>
-  <!-- <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 18]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 19]</a></li>
-  <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 20]</a></li> -->
-</ol></br>
+1.[Câu 9](https://codepen.io/PhamMinhTri20/pen/JjZKNKM)
+2.[Câu 10](https://codepen.io/PhamMinhTri20/pen/BaVzZoz)
+3.[Câu 11](https://codepen.io/PhamMinhTri20/pen/zYaBzvJ)
+4.[Câu 12](https://codepen.io/PhamMinhTri20/pen/rNKjEQG)
+5.[Câu 13](https://codepen.io/PhamMinhTri20/pen/gOKmqxx)
+6.[Câu 14](https://codepen.io/PhamMinhTri20/pen/LYrWqZE)
+7.[Câu 15](https://codepen.io/PhamMinhTri20/pen/gOKmqMm)
+8.[Câu 15(cách 2)](https://codepen.io/PhamMinhTri20/pen/WNygWQW)
+9.[Câu 16](https://codepen.io/PhamMinhTri20/pen/abKLVvM)
+10.[Câu 17](https://codepen.io/PhamMinhTri20/pen/QWxmVBQ)
+11.[Câu 18](#)
+12.[Câu 19](#)
+13.[Câu 20](#)
 ## Thực hành
-<h1>Thực hành</h1>
-<ol>
-  <li><a href="https://codesandbox.io/s/web-design-ujv638">Bài thực hành làm quen React và tạo component</a>
-  <li><a href="https://codesandbox.io/s/thuc-hanh-dung-props-va-state-1f3osb">Thực hành dùng props và state</a>
-</ol>
+1.[Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/web-design-ujv638)
+2.[Thực hành dùng props và state](https://codesandbox.io/s/thuc-hanh-dung-props-va-state-1f3osb)
+3.[Dự án hoàn chỉnh](https://codesandbox.io/s/du-an-hoan-chinh-6ky5hc)
