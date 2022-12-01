@@ -23,7 +23,7 @@
   <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 19]</a></li>
   <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 20]</a></li> -->
 </ol>
-# Thực hành
+<h1>Thực hành</h1>
 <ol>
   <li><a href="https://codesandbox.io/s/web-design-ujv638">Bài thực hành làm quen React và tạo component</a>
   <li><a href="https://codesandbox.io/s/thuc-hanh-dung-props-va-state-1f3osb">Thực hành dùng props và state</a>
