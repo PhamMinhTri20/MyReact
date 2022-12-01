@@ -5,7 +5,7 @@ Bài tập môn React</br>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 1]</a></li>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 2]</a></li>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/qBYeyZM">[Bài 3]</a></li>
- --><li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 4]</a></li>
+<!-- <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 4]</a></li>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 5]</a></li>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/ExLqRLX">[Bài 6]</a></li>
 <li><a href="https://codepen.io/PhamMinhTri20/pen/QWreNgW">[Bài 7]</a></li>
