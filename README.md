@@ -1,7 +1,7 @@
 # Bài tập môn React
 ## Lý thuyết
-1.[Câu 9](https://codepen.io/PhamMinhTri20/pen/JjZKNKM)
-2.[Câu 10](https://codepen.io/PhamMinhTri20/pen/BaVzZoz)
+1.[Câu 9](https://codepen.io/PhamMinhTri20/pen/JjZKNKM) <br>
+2.[Câu 10](https://codepen.io/PhamMinhTri20/pen/BaVzZoz)<br>
 3.[Câu 11](https://codepen.io/PhamMinhTri20/pen/zYaBzvJ)
 4.[Câu 12](https://codepen.io/PhamMinhTri20/pen/rNKjEQG)
 5.[Câu 13](https://codepen.io/PhamMinhTri20/pen/gOKmqxx)
