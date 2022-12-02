@@ -10,9 +10,10 @@
 8.[Câu 15(cách 2)](https://codepen.io/PhamMinhTri20/pen/WNygWQW)<br>
 9.[Câu 16](https://codepen.io/PhamMinhTri20/pen/abKLVvM)<br>
 10.[Câu 17](https://codepen.io/PhamMinhTri20/pen/QWxmVBQ)<br>
-11.[Câu 18](#)<br>
-12.[Câu 19](#)<br>
-13.[Câu 20](#)<br>
+11.[Câu 18](https://codepen.io/PhamMinhTri20/pen/KKeGBRx)<br>
+12.[Câu 19](https://codepen.io/PhamMinhTri20/pen/GRGYXoQ)<br>
+13.[Câu 20](https://codepen.io/PhamMinhTri20/pen/RwJeYWj)<br>
+14.[Câu 21](https://codepen.io/PhamMinhTri20/pen/oNyaPxZ)<br>
 ## Thực hành
 1.[Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/web-design-ujv638)<br>
 2.[Thực hành dùng props và state](https://codesandbox.io/s/thuc-hanh-dung-props-va-state-1f3osb)<br>
