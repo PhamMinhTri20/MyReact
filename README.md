@@ -17,4 +17,7 @@
 ## Thực hành
 1. [Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/web-design-ujv638)
 2. [Thực hành dùng props và state](https://codesandbox.io/s/thuc-hanh-dung-props-va-state-1f3osb)
-3. [Dự án hoàn chỉnh](https://codesandbox.io/s/du-an-hoan-chinh-6ky5hc)
+3. [Bài thực hành 1](https://codepen.io/PhamMinhTri20/pen/dyKrBOe)
+4. [Bài thực hành 2](https://codesandbox.io/s/bai-thuc-hanh-so-2-ozlic5)
+5. [Bài thực hành 3](https://codesandbox.io/s/bai-thuc-hanh-so-3-0wpzwx)
+6. [Dự án hoàn chỉnh](https://codesandbox.io/s/du-an-hoan-chinh-6ky5hc)
